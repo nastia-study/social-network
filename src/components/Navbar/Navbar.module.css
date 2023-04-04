@@ -1,0 +1,15 @@
+.navbar {
+	display: inline-block;
+	padding: 30px;
+	width: 170px;
+
+	border-right: 1px solid #1e1e1e;
+}
+
+.navbar div {
+	margin-bottom: 15px;
+}
+
+.navbar a {
+	font-size: 18px;
+}

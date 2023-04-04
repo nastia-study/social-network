@@ -1,0 +1,29 @@
+.orange_circle {
+  position: absolute;
+  right: 20%;
+  top: -20px;
+
+  height: 600px;
+  width: 600px;
+
+  background-color: #e79823;
+  box-shadow: 0px 0px 200px 130px rgba(231,152,35,1);
+  border-radius: 50%;
+
+  z-index: 5;
+}
+
+.pink_circle {
+  position: absolute;
+  right: 7%;
+  top: 380px;
+
+  height: 400px;
+  width: 400px;
+
+  background-color: #d430ce;
+  box-shadow: 0px 0px 200px 150px rgba(212,48,206,1);
+  border-radius: 50%;
+
+  z-index: 6;
+}

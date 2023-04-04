@@ -1,0 +1,14 @@
+.header {
+	padding: 40px 0;
+	height: 27px;
+	border-bottom: 1px solid #1e1e1e;
+}
+
+.header_text {
+	margin-left: 250px;
+
+	font-size: 20px;
+	line-height: 1;
+	font-weight: 300;
+
+}

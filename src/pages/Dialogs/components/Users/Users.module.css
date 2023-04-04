@@ -1,0 +1,7 @@
+.users {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  border-right: 1px solid black;
+}
